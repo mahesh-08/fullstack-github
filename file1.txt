@@ -1,2 +1,3 @@
 git training 
 day one
+branch is a concept in git
